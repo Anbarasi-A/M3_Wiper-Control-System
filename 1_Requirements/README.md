@@ -57,3 +57,27 @@ LR_02 | OFF RED LED - if the button is pushed TWICE | Implemented
 LR_03 | ON BLUE,GREEN,ORANGE LEDs if the button is pushed THREE TIMES | Implemented
 LR_04 | ON ORANGE,GREEN,and BLUE LEDs - if the button is pushed FOUR times | Implemented
 
+# SWOT ANALYSIS
+## STRENGTH 
+* Low Budget
+* Good Reputation
+* High Bargaining Power Suppliers
+* Big Influence on the Market
+
+## WEAKNESS
+* Structural Inertia
+* High Transaction Cost
+* No Focus on Private Sector
+* Weak Focus on Process Innovations
+
+## OPPORTUNITIES
+* Emerging New Markets
+* Technological Development
+* Demand for Saver Equipments
+* Technological Lock in of Product
+
+## THREATS
+* Low Bargaining Power Buyers
+* Highly regulated industry
+* Ethical Pressure
+* Economical Crisis
