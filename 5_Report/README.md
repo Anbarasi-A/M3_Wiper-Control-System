@@ -58,6 +58,23 @@ LR_03 | ON BLUE,GREEN,ORANGE LEDs if the button is pushed THREE TIMES | Implemen
 LR_04 | ON ORANGE,GREEN,and BLUE LEDs - if the button is pushed FOUR times | Implemented
 
 # Output Images
+## Red light on: Engine on state
+![red light on](https://user-images.githubusercontent.com/101244018/168423455-de93fbab-8064-4a44-9d9a-f69ea395e6a1.png)
+
+## Wiper speed is low
+![blue light on](https://user-images.githubusercontent.com/101244018/168423464-dd25abab-71ba-46a7-981f-3d298b3e3b31.png)
+
+## Wiper speed is moderate
+![green light on](https://user-images.githubusercontent.com/101244018/168423470-35383f1f-4555-43fb-8adb-c11136cc91d6.png)
+
+## Wiper speed is high
+![orange light on](https://user-images.githubusercontent.com/101244018/168423480-7d683baf-a67c-4153-bb97-bf549ed4e670.png)
+
+## OFF State
+![led off](https://user-images.githubusercontent.com/101244018/168423487-c26f0c87-1104-43bf-a37e-ada294bf14e0.png)
+
+## Wiper System 1
+![wiper system 1](https://user-images.githubusercontent.com/101244018/168423495-3cc3ad1a-570e-44e0-82bd-a35a1d157143.png)
 
 
 
