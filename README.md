@@ -6,3 +6,6 @@
 # Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b2c0fc269d5b45c49994668b8ebfa827)](https://www.codacy.com/gh/Anbarasi-A/M3_Wiper-Control-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Anbarasi-A/M3_Wiper-Control-System&amp;utm_campaign=Badge_Grade)
 # Code Quality
+[![Code Quality](https://api.codiga.io/project/33469/score/svg)
+# Code Grade
+[![Code Grade](https://api.codiga.io/project/33469/status/svg)
